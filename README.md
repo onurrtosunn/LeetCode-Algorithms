@@ -18,7 +18,7 @@ Roman numerals are represented by seven different symbols: I, V, X, L, C, D and 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/13.%20Roman%20to%20Integer/roman_to_integer.py)
 
 
-###### 3. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+### 3. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
@@ -27,7 +27,7 @@ If there is no common prefix, return an empty string "".
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/tree/main/14.%20Longest%20Common%20Prefix)
 
 
-###### 4. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+### 4. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
@@ -40,7 +40,7 @@ Every close bracket has a corresponding open bracket of the same type.
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/20.%20Valid%20Parentheses/valid_parentheses.py)
 
 
-###### 5. [27. Remove Element](https://leetcode.com/problems/remove-element/)
+### 5. [27. Remove Element](https://leetcode.com/problems/remove-element/)
 
 Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
 
@@ -51,7 +51,7 @@ Return k.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/27.%20Remove%20Element/remove_element.py)
 
-###### 6. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+### 6. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 You are given the heads of two sorted linked lists list1 and list2.
 
@@ -61,7 +61,7 @@ Return the head of the merged linked list.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/21.%20Merge%20Two%20Sorted%20Lists/merge_two_sorted_lists.py)
 
-###### 7. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+### 7. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
@@ -69,7 +69,7 @@ You must write an algorithm with O(log n) runtime complexity.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/35.%20Search%20Insert%20Position/search_insert_position.py)
 
-###### 8. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+### 8. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
@@ -78,7 +78,7 @@ A word is a maximal substring consisting of non-space characters only.
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/58.%20Length%20of%20Last%20Word/lenght_of_last_word.py)
 
 
-###### 9. [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+### 9. [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 
 You have n bags numbered from 0 to n - 1. You are given two 0-indexed integer arrays capacity and rocks. The ith bag can hold a maximum of capacity[i] rocks and currently contains rocks[i] rocks. You are also given an integer additionalRocks, the number of additional rocks you can place in any of the bags.
 
@@ -86,14 +86,14 @@ Return the maximum number of bags that could have full capacity after placing th
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/Maximum_Bags_With_Full_Capacity_of_Rocks.py)
 
-###### 10. [66. Plus One](https://leetcode.com/problems/plus-one/)
+### 10. [66. Plus One](https://leetcode.com/problems/plus-one/)
 
 You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
 
 Increment the large integer by one and return the resulting array of digits.
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/66.%20Plus%20One/plus_one.py)
 
-###### 11. [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+### 11. [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 
 Design a HashSet without using any built-in hash table libraries.
 
@@ -106,19 +106,19 @@ If there is no common prefix, return an empty string "".
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/705.%20Design%20HashSet/design_hash_set.py)
 
-###### 12. [189. Rotate Array]((https://leetcode.com/problems/longest-common-prefix/)
+### 12. [189. Rotate Array]((https://leetcode.com/problems/longest-common-prefix/)
 
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/189.%20Rotate%20Array/Rotate_Array.py)
 
-###### 13. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+### 13. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/217.%20Contains%20Duplicate/Contains_Duplicate.py)
 
-###### 14. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+### 14. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
@@ -126,13 +126,13 @@ Note that you must do this in-place without making a copy of the array.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/283.%20Move%20Zeroes/Move_Zeroes.py)
 
-###### 15. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+### 15. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/53.%20Maximum%20Subarray/Maximum_Subarray.py)
 
-###### 16. [706. Design HashMap]((https://leetcode.com/problems/design-hashmap/)
+### 16. [706. Design HashMap]((https://leetcode.com/problems/design-hashmap/)
 
 Design a HashMap without using any built-in hash table libraries.
 
@@ -145,7 +145,7 @@ void remove(key) removes the key and its corresponding value if the map contains
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/706.%20Design%20HashMap/Design_HashMap.py)
 
-###### 17. [232. Implement Queue using Stacks]((https://leetcode.com/problems/implement-queue-using-stacks/)
+### 17. [232. Implement Queue using Stacks]((https://leetcode.com/problems/implement-queue-using-stacks/)
 
 Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (push, peek, pop, and empty).
 
@@ -158,20 +158,20 @@ boolean empty() Returns true if the queue is empty, false otherwise.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/232.%20Implement%20Queue%20using%20Stacks/Implement_Queue_using_Stacks.py)
 
-###### 18. [70. Climbing Stairs]((https://leetcode.com/problems/climbing-stairs/)
+### 18. [70. Climbing Stairs]((https://leetcode.com/problems/climbing-stairs/)
 
 You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/70.%20Climbing%20Stairs/Climbing_Stairs.py)
 
-###### 19. [509. Fibonacci Number]((https://leetcode.com/problems/fibonacci-number/)
+### 19. [509. Fibonacci Number]((https://leetcode.com/problems/fibonacci-number/)
 
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/509.%20Fibonacci%20Number/Fibonacci_Number.py)
 
-###### 20. [121. Best Time to Buy and Sell Stock]((https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+### 20. [121. Best Time to Buy and Sell Stock]((https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
@@ -181,7 +181,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Best_Time_to_Buy_and_Sell_Stock.py)
 
-###### 21. [198. House Robber]((https://leetcode.com/problems/house-robber/)
+### 21. [198. House Robber]((https://leetcode.com/problems/house-robber/)
 
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
@@ -190,7 +190,7 @@ Given an integer array nums representing the amount of money of each house, retu
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/198.%20House%20Robber/House_Robber.py)
 
-###### 22. [242. Valid Anagram]((https://leetcode.com/problems/valid-anagram//)
+### 22. [242. Valid Anagram]((https://leetcode.com/problems/valid-anagram//)
 
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
@@ -199,7 +199,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/242.%20Valid%20Anagram/Valid_Anagram.py)
 
 
-###### 23. [1. Two Sum]((https://leetcode.com/problems/two-sum/)
+### 23. [1. Two Sum]((https://leetcode.com/problems/two-sum/)
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -210,7 +210,7 @@ You can return the answer in any order.
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/1.%20Two%20Sum/two-sum.py)
 
 
-###### 24. [49. Group Anagramsy]((https://leetcode.com/problems/group-anagrams/)
+### 24. [49. Group Anagramsy]((https://leetcode.com/problems/group-anagrams/)
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
@@ -219,7 +219,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/49.%20Group%20Anagrams/Group_Anagrams.py)
 
 
-###### 25. [347. Top K Frequent Elements]((https://leetcode.com/problems/top-k-frequent-elements/)
+### 25. [347. Top K Frequent Elements]((https://leetcode.com/problems/top-k-frequent-elements/)
 
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
@@ -227,7 +227,7 @@ Given an integer array nums and an integer k, return the k most frequent element
 
 
 
-###### 26. [347. Top K Frequent Elements]((https://leetcode.com/problems/sudoku-solver/)
+### 26. [347. Top K Frequent Elements]((https://leetcode.com/problems/sudoku-solver/)
 
 Write a program to solve a Sudoku puzzle by filling the empty cells.
 

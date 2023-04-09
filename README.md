@@ -106,7 +106,7 @@ If there is no common prefix, return an empty string "".
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/705.%20Design%20HashSet/design_hash_set.py)
 
-### 12. [189. Rotate Array]((https://leetcode.com/problems/longest-common-prefix/)
+### 12. [189. Rotate Array](https://leetcode.com/problems/longest-common-prefix/)
 
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 
@@ -132,7 +132,7 @@ Given an integer array nums, find the subarray with the largest sum, and return 
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/53.%20Maximum%20Subarray/Maximum_Subarray.py)
 
-### 16. [706. Design HashMap]((https://leetcode.com/problems/design-hashmap/)
+### 16. [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
 
 Design a HashMap without using any built-in hash table libraries.
 
@@ -145,7 +145,7 @@ void remove(key) removes the key and its corresponding value if the map contains
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/706.%20Design%20HashMap/Design_HashMap.py)
 
-### 17. [232. Implement Queue using Stacks]((https://leetcode.com/problems/implement-queue-using-stacks/)
+### 17. [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (push, peek, pop, and empty).
 
@@ -158,20 +158,20 @@ boolean empty() Returns true if the queue is empty, false otherwise.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/232.%20Implement%20Queue%20using%20Stacks/Implement_Queue_using_Stacks.py)
 
-### 18. [70. Climbing Stairs]((https://leetcode.com/problems/climbing-stairs/)
+### 18. [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/70.%20Climbing%20Stairs/Climbing_Stairs.py)
 
-### 19. [509. Fibonacci Number]((https://leetcode.com/problems/fibonacci-number/)
+### 19. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/509.%20Fibonacci%20Number/Fibonacci_Number.py)
 
-### 20. [121. Best Time to Buy and Sell Stock]((https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+### 20. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
@@ -181,7 +181,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Best_Time_to_Buy_and_Sell_Stock.py)
 
-### 21. [198. House Robber]((https://leetcode.com/problems/house-robber/)
+### 21. [198. House Robber](https://leetcode.com/problems/house-robber/)
 
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
@@ -190,7 +190,7 @@ Given an integer array nums representing the amount of money of each house, retu
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/198.%20House%20Robber/House_Robber.py)
 
-### 22. [242. Valid Anagram]((https://leetcode.com/problems/valid-anagram//)
+### 22. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram//)
 
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
@@ -199,7 +199,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/242.%20Valid%20Anagram/Valid_Anagram.py)
 
 
-### 23. [1. Two Sum]((https://leetcode.com/problems/two-sum/)
+### 23. [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -210,7 +210,7 @@ You can return the answer in any order.
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/1.%20Two%20Sum/two-sum.py)
 
 
-### 24. [49. Group Anagramsy]((https://leetcode.com/problems/group-anagrams/)
+### 24. [49. Group Anagramsy](https://leetcode.com/problems/group-anagrams/)
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
@@ -219,7 +219,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/49.%20Group%20Anagrams/Group_Anagrams.py)
 
 
-### 25. [347. Top K Frequent Elements]((https://leetcode.com/problems/top-k-frequent-elements/)
+### 25. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
@@ -227,7 +227,7 @@ Given an integer array nums and an integer k, return the k most frequent element
 
 
 
-### 26. [347. Top K Frequent Elements]((https://leetcode.com/problems/sudoku-solver/)
+### 26. [347. Top K Frequent Elements](https://leetcode.com/problems/sudoku-solver/)
 
 Write a program to solve a Sudoku puzzle by filling the empty cells.
 

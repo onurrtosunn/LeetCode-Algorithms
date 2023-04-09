@@ -4,14 +4,14 @@ LeetCode Algorithms Solution
 
 > onurtosunn0@gmail.com
 
-###### 1. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+### 1. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 Given an integer x, return true if x is a palindrome, and false otherwise
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/9.%20Palindrome%20Number/palindrome_number.cpp)
 
 
-###### 2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+### 2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 

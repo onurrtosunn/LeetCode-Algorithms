@@ -1,6 +1,6 @@
 # LeetCode-Algorithms
 LeetCode Algorithms Solution
-> https://www.linkedin.com/in/onur-tosun-4256a5215
+> https://www.linkedin.com/in/onurrtosunn
 
 > onurtosunn0@gmail.com
 

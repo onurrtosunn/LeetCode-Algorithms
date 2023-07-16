@@ -250,8 +250,13 @@ Note that multiple kids can have the greatest number of candies.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/kids_with_the_greatest_number_of_candies.py)
 
+### 28. [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 
+You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
 
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+[Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/48.%20Rotate%20Image/rotate_image.py)
 
 
 

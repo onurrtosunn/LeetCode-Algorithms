@@ -258,6 +258,13 @@ You have to rotate the image in-place, which means you have to modify the input 
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/48.%20Rotate%20Image/rotate_image.py)
 
+### 29. [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
+
+Return true if you can reach the last index, or false otherwise.
+
+[Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/55.%20%20Jump%20Game/jump_game.py)
 
 
 

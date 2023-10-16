@@ -266,6 +266,21 @@ Return true if you can reach the last index, or false otherwise.
 
 [Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/55.%20%20Jump%20Game/jump_game.py)
 
+### 30. [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
+Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+[Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/119.%20Pascal's%20Triangle%20II/pascals_triangle_2.py)
+
+
+### 31. [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+[Solution](https://github.com/onurrtosunn/LeetCode-Algorithms/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/find_the_index_of_the_first_occurrence_in_a_string.py)
+
 
 
 
